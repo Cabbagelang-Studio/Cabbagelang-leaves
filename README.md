@@ -23,6 +23,7 @@ The repository for Cabbagelang leaves.
 (fun {example.add x y} {
 	(+ x y)
 })
+```
 
 ## How to upload leaves
 
